@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3SToolboxApiTester", "C3SToolboxApiTester\C3SToolboxApiTester.csproj", "{885E6BA6-ECE7-47ED-AD87-E42306B98A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885E6BA6-ECE7-47ED-AD87-E42306B98A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885E6BA6-ECE7-47ED-AD87-E42306B98A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885E6BA6-ECE7-47ED-AD87-E42306B98A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885E6BA6-ECE7-47ED-AD87-E42306B98A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FA754A-6541-4502-B622-CC7E78B089D0}
+	EndGlobalSection
+EndGlobal
